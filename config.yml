@@ -13,6 +13,16 @@ site:
       redirect: https://cecil.app
     documentation:
       redirect: https://cecil.app/documentation
+    documentation/quick-start:
+      redirect: https://cecil.app/documentation/quick-start
+    documentation/pages:
+      redirect: https://cecil.app/documentation/pages
+    documentation/layouts:
+      redirect: https://cecil.app/documentation/layouts
+    documentation/configuration:
+      redirect: https://cecil.app/documentation/configuration
+    documentation/library:
+      redirect: https://cecil.app/documentation/library
     download:
       redirect: https://cecil.app/download
     about:

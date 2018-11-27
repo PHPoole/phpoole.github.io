@@ -8,6 +8,9 @@ site:
     name: Arnaud Ligny
     url: https://arnaudligny.fr
   fmpages:
+    redirects:
+      layout: _redirects.txt
+      permalink: _redirects
     index:
       permalink: /
       redirect: https://cecil.app
